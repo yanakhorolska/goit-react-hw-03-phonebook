@@ -1,4 +1,4 @@
-﻿import './Filter.css';
+import './Filter.css';
 import PropTypes from 'prop-types';
 
 const Filter = ({ value, filterChanger }) => {
